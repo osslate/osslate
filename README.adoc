@@ -1,1 +1,29 @@
-Hi!
+=== Dia duit!
+
+[%noheader,cols="1a,21"]
+|===
+| | 
+
+|`whoami`
+|
+👋 Long-time FOSS fiend interested in Linux, documentation, computer music, and audio programming. Sometimes https://osslate.net[I write about my interests], and you can https://hello.osslate.net[find anything I deem highlight-worthy on Polywork]. 
+
+image:https://iconape.com/wp-content/png_logo_vector/red-hat.png[Red Hat Icon, 12] I work at Red Hat as a Technical Writer on the _Cloud Storage & Data Services_ team, currently documenting https://ceph.com/[Ceph].
+
+
+| GitHub 
+| https://github.com/osslate[Personal], https://github.com/osslate-rh[Red Hat]
+
+| GitLab 
+| https://gitlab.com/osslate[GitLab.com], https://gitlab.gnome.org/osslate/[GNOME], https://gitlab.freedesktop.org/osslate[freedesktop.org]
+
+| Twitter
+| https://twitter.com/osslate[Personal]
+
+| Mastodon
+| https://mastodon.ie/@osslate[Personal], https://floss.social/@osslate[FOSS]
+
+| Matrix
+| `@osslate:envs.net`
+
+|===
